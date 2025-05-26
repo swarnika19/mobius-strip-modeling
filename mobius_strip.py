@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-plt.style.use('seaborn-vibrant')
 
 class MobiusStrip:
     def __init__(self, loop_radius, strip_width, mesh_points):
